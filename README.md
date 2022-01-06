@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Racing+Sans+One&color=%232F2359&size=40&center=true&lines=Hanwool+Park;nanometre380"></h1>
 
-<!--
-**nanometre380/nanometre380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+<h3 align="center"> Tech Stack </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=Ruby%20on%20Rails&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Me</h3>
+<p align="center">
+  <a href="https://nanometre380.notion.site/Hanwool-Park-d129869b494e4bc4abd59ce3fcc55aac"><img src="https://img.shields.io/badge/Portfolio-370665?style=flat-square&logoColor=white&link=https://nanometre380.notion.site/Hanwool-Park-d129869b494e4bc4abd59ce3fcc55aac"/></a>&nbsp
+  <a href="https://nanometre380.tistory.com/"><img src="https://img.shields.io/badge/Blog-556886?style=flat-square&logoColor=white&link=https://nanometre380.tistory.com/"/></a>&nbsp
+ </p>
+ <h3 align="center">Contact</h3>
+  <a href="mailto:nanometre380@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=nanometre380@gmail.com"/></a>
+</p>
