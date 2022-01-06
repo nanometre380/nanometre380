@@ -1,3 +1,5 @@
+<br>
+<br>
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Racing+Sans+One&color=%232F2359&size=40&center=true&lines=Hanwool+Park;nanometre380"></h1>
 
 <br>
@@ -22,12 +24,18 @@
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp
   
 </p>
-
+<br>
+<br>
 <h3 align="center">Me</h3>
 <p align="center">
   <a href="https://nanometre380.notion.site/Hanwool-Park-d129869b494e4bc4abd59ce3fcc55aac"><img src="https://img.shields.io/badge/Portfolio-370665?style=flat-square&logoColor=white&link=https://nanometre380.notion.site/Hanwool-Park-d129869b494e4bc4abd59ce3fcc55aac"/></a>&nbsp
   <a href="https://nanometre380.tistory.com/"><img src="https://img.shields.io/badge/Blog-556886?style=flat-square&logoColor=white&link=https://nanometre380.tistory.com/"/></a>&nbsp
  </p>
+ <br>
+ <br>
  <h3 align="center">Contact</h3>
-  <a href="mailto:nanometre380@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=nanometre380@gmail.com"/></a>
-</p>
+ <p align="center">
+  <a href="mailto:nanometre380@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=nanometre380@gmail.com"/></a>&nbsp
+  </p>
+  <br>
+  <br>
