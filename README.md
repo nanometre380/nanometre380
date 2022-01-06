@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<h3 align="center"> Tech Stack </h3>
+<h3 align="center"> 🍋 Tech Stack 🍋 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -26,14 +26,14 @@
 </p>
 <br>
 <br>
-<h3 align="center">Me</h3>
+<h3 align="center"> 🍋 Me 🍋 </h3>
 <p align="center">
-  <a href="https://nanometre380.notion.site/Hanwool-Park-d129869b494e4bc4abd59ce3fcc55aac"><img src="https://img.shields.io/badge/🍋PORTFOLIO🍋-370665?style=flat-square&logoColor=white&link=https://nanometre380.notion.site/Hanwool-Park-d129869b494e4bc4abd59ce3fcc55aac"/></a>&nbsp
-  <a href="https://nanometre380.tistory.com/"><img src="https://img.shields.io/badge/🍋BLOG🍋-556886?style=flat-square&logoColor=white&link=https://nanometre380.tistory.com/"/></a>&nbsp
+  <a href="https://nanometre380.notion.site/Hanwool-Park-d129869b494e4bc4abd59ce3fcc55aac"><img src="https://img.shields.io/badge/PORTFOLIO-370665?style=flat-square&logoColor=white&link=https://nanometre380.notion.site/Hanwool-Park-d129869b494e4bc4abd59ce3fcc55aac"/></a>&nbsp
+  <a href="https://nanometre380.tistory.com/"><img src="https://img.shields.io/badge/BLOG-556886?style=flat-square&logoColor=white&link=https://nanometre380.tistory.com/"/></a>&nbsp
  </p>
  <br>
  <br>
- <h3 align="center">Contact</h3>
+ <h3 align="center"> 🍋 Contact 🍋 </h3>
  <p align="center">
   <a href="mailto:nanometre380@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=nanometre380@gmail.com"/></a>&nbsp
   </p>
